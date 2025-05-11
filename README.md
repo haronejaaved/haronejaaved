@@ -14,7 +14,7 @@
 <p align="center">
 	<a href="https://github.com/haronejaaved"><img src="https://img.icons8.com/bubbles/54/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/harone-jaaved/"><img src="https://img.icons8.com/bubbles/54/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="haronejaaved.github.io"><img src="https://img.icons8.com/arcade/54/portfolio.png" alt="My Portfolio"/></a>
+<a href="https://haronejaaved.github.io/"><img src="https://img.icons8.com/arcade/54/portfolio.png" alt="My Portfolio"/></a>
 
 
 </p>
