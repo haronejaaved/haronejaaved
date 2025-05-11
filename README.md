@@ -5,7 +5,7 @@
 🔍 Passionate about using data to solve real-world problems.  
 🔧 I work with SQL, SAS, Excel, Power BI, Tableau, Python to analyze data, create reports, and generate insights.  
 
-#### My projects:
+#### 💼My projects:
 [![My Portfolio](https://img.shields.io/badge/My_Portfolio-7D4698.svg?logo=CodeProject&logoColor=white)](https://haronejaaved.github.io) 
 
  
