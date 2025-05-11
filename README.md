@@ -8,4 +8,4 @@
 #### 📫Reach out to me:  
 [LinkedIn](https://www.linkedin.com/in/harone-jaaved/)
 #### My projects:
-- (https://haronejaaved.github.io)
+- https://haronejaaved.github.io
